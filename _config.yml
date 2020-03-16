@@ -1,14 +1,16 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Daniela & Enrique
+description: Freelance IT and Content Service
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Daniela & Enrique
+user_description: "We're a Freelancer couple working as a Team since 2010."
+user_description2: "We're in Argentina (most of the time) working for small and medium size clients around the world, providing infrastructure and content creation services for companies and individuals that require to build their presence online."
+user_title: IT and Content Services
+email_da: qmax.mail@gmail.com
+email_q: da.carrara@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
