@@ -10,8 +10,17 @@
 </div>
   <p>{{ site.user_description2 }}</p>
   <h1>Contact information</h1>
-  <a aria-label="Send an email to Enrique" href="mailto:qmax.mail@gmail.com"><i class="icon fa fa-envelope"></i></a>
-  <a aria-label="Send email to Daniela" href="mailto:da.carrara@gmail.com"><i class="icon fa fa-envelope"></i></a>
+    <div style="display:flex; gap:20px; align-items:center;">
+      <a aria-label="Enrique Email" href="mailto:qmax.mail@gmail.com" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+        <i class="icon fa fa-envelope"></i>
+        <span>qmax.mail@gmail.com</span>
+      </a>
+
+      <a aria-label="Daniela Email" href="mailto:da.carrara@gmail.com" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none;">
+        <i class="icon fa fa-envelope"></i>
+        <span>da.carrara@gmail.com</span>
+      </a>
+    </div>
   <p>{{ site.user_description3 }}</p>
   <p>{{ site.user_description4 }}</p>
 </div>
